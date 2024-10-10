@@ -5,9 +5,11 @@
     }
     
     img {
-    width: 50%;
+    align-items: center;
+    width: 30%;
     padding-left: 0px;
-    margin-left: 130px;
+    margin-left: 100px;
+    margin-right: 100px;
     border-radius: 50%;
     }
     
