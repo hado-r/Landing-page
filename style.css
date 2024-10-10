@@ -1,0 +1,132 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+    
+    img {
+    width: 50%;
+    padding-left: 0px;
+    margin-left: 130px;
+    border-radius: 50%;
+    }
+    
+    body {
+    background-color: #286c8b;
+    font-family: Courier New;
+    height: 100%;
+    }
+    
+    h4{
+    padding-top: 30px;
+    margin-left: 28px;
+    text-align: center;
+    font-size: 120%;
+    font-family: Courier New;
+    }
+    
+    nav > ul {
+    font-size: 130%;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    text-decoration: none;
+    background-color: #c7ecee;
+    font-weight: 800;
+    
+    }
+    
+    #form {
+    padding: 20px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    }
+    
+    #email , #submit{
+    border-radius: 7px;
+    }
+    
+    ::placeholder{
+    text-align: center;
+    }
+    
+    .prices {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    
+    }
+    
+    section div{
+    border: 2px solid;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin: 4px;
+    border-radius: 7px;
+    }
+    
+    ol{
+    list-style-type: none;
+    text-align: center;
+    }
+    
+    .main-section {
+    font-family: courier new;
+    text-align: center;
+    }
+    
+    .main-section header {
+    font-weight: 800;
+    margin: 30px;
+    text-decoration: underline;
+    }
+    
+    .main-section>header, .prices>header{
+    font-size: 150%;
+    text-align: center;
+    }
+    
+    a{
+    color: #2f3e46;
+    }
+    a:hover{
+    color: #edf2f4;
+    }
+    
+    button {
+    border-radius: 20px;
+    width: 90%;
+    margin-left: 7px;
+    margin-bottom: 5px;
+    
+    }
+    
+    h2{
+    text-align: center;
+    font-size: 200%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+    h3{
+    background-color: #aed5d0;
+    text-align: center;
+    }
+    
+    div p{
+    text-align: center;
+    font-size: 120%;
+    padding: 7px;
+    }
+    
+    div li {
+    padding: 3px;
+    }
+    
+    footer {
+    text-align: center;
+    }
+    
